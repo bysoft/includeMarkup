@@ -15,7 +15,6 @@ Usage
 ----
     <script src=https://raw.github.com/bysoft/includeMarkup/master/js/core.js></script>
 
-Execute
 -------
 
 * call function and specify the include file and selector statement of the wrapping element
